@@ -1,0 +1,48 @@
+#img_m
+{
+    position: relative;
+    display: flex;
+    
+}
+#Person
+{
+    margin-left: 20px;
+    z-index: 2;
+    position: relative;
+    height: 700px;
+    width: 700px;
+    border-radius: 10%;
+}
+
+#Arson
+{
+    position: absolute;
+    filter:blur(50px);
+    height: 700px;
+    width: 1920px;
+}
+
+
+#text_align
+{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+#intro_1,#intro_2
+{
+
+    text-shadow: 
+        -2px -2px 0 rgb(115, 110, 110), 
+         2px -2px 0 rgb(115, 110, 110), 
+        -2px  2px 0 rgb(115, 110, 110), 
+         2px  2px 0 rgb(115, 110, 110); 
+    color: black;
+    border-radius: 10px;
+    z-index: 2;
+    position: relative;
+    font-size: 8em;
+    line-height: 1;
+    font-family: 'Dancing Script',cursive;
+    margin: 10px;
+}
