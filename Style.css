@@ -33,11 +33,11 @@
 {
 
     text-shadow: 
-        -2px -2px 0 rgb(115, 110, 110), 
-         2px -2px 0 rgb(115, 110, 110), 
-        -2px  2px 0 rgb(115, 110, 110), 
-         2px  2px 0 rgb(115, 110, 110); 
-    color: black;
+        -2px -2px 0 rgb(13, 13, 13), 
+         2px -2px 0 rgb(13, 13, 13), 
+        -2px  2px 0 rgb(13, 13, 13), 
+         2px  2px 0 rgb(13, 13, 13); 
+    color: white;
     border-radius: 10px;
     z-index: 2;
     position: relative;
